@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12433357012",
+    "project_id": "zeroo-12c5f",
+    "storage_bucket": "zeroo-12c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12433357012:android:d138903af7afa7ab76e341",
+        "android_client_info": {
+          "package_name": "com.example.zeroo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUo8GN-f6JO8CxahdQxf1Ov7_pZ1JF-zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
